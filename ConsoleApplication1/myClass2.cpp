@@ -5,6 +5,7 @@
 myClass2::myClass2()
 {//some changes
 	// New changes
+	//Remote changes
 }
 
 
