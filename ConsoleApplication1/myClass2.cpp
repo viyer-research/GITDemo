@@ -7,6 +7,7 @@ myClass2::myClass2()
 	// New changes
 	//Remote changes
 	//Remote changes 2
+	//local push
 }
 
 
